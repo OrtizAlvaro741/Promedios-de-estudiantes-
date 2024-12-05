@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int numeroEstudiantes;  
+    float promedioCalificaciones;
+
+    numeroEstudiantes = 30;
+    promedioCalificaciones = 79;
+
+    cout << "Número de estudiantes: " << numeroEstudiantes << endl;
+    cout << "Promedio de calificaciones: " << promedioCalificaciones << endl;
+
+    return 0;
+}
